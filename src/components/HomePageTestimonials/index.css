@@ -1,0 +1,117 @@
+.home-page-testimonial-container {
+    background-image: url("./images//image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home-page-testimonial-content-container {
+    background: rgba(255, 255, 255, 0.7);
+    display: flex;
+
+}
+
+.home-page-testimonial-image {
+    margin-left: 318px;
+    margin-top: 140px;
+    margin-bottom: 116px;
+
+
+}
+
+.testimonial-image {
+
+    border: 10px solid #FFFFFF;
+    padding: 10px;
+
+}
+
+.home-page-testimonial-title-container {
+    margin-top: 150px;
+    margin-left: 41px;
+    font-family: sans-serif;
+}
+
+.home-page-testimonial-content-header-title {
+    font-weight: 400;
+    font-size: 15.9158px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.home-page-testimonial-content-header-sub-title {
+    font-weight: 600;
+    font-size: 31.8316px;
+    line-height: 37px;
+    color: #000000;
+}
+
+.home-page-testimonial-title-container p {
+    font-weight: 400;
+    font-size: 15.9158px;
+    line-height: 27px;
+    color: #505050;
+    width: 551px;
+    margin-bottom: 52px;
+}
+
+.home-page-testimonial-card-container {
+    display: flex;
+}
+
+.home-page-testimonial-cards {
+    width: 308px;
+    height: 208px;
+    background: #E2E2E2;
+    margin: 10px;
+}
+
+.home-page-testimonial-card-profile-container {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.home-page-testimonial-profile {
+
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.home-page-testimonial-name-container {
+    margin-left: 22px;
+}
+
+.home-page-testimonial-name {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 27px;
+    color: #000000;
+    margin-top: 17px;
+}
+
+.home-page-testimonial-sub-name {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.home-page-testimonial-card-paragraph {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    color: #505050;
+    margin-left: 18px;
+    margin-bottom: 13px;
+}
+
+
+
+.home-page-testimonial-card-star-container {
+    margin-left: 15px;
+    display: flex;
+}
+.home-page-testimonial-card-star {
+    margin: 4px;
+}

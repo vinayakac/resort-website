@@ -1,0 +1,78 @@
+.about-us-page-about-container {
+    font-family: sans-serif;
+}
+
+.about-us-page-about-block {
+    display: flex;
+}
+
+.about-us-page-about-image {
+    margin-top: 50px;
+    margin-left: 346px;
+}
+
+.about-us-page-about-content {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.about-us-page-about-content-header-title {
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+    margin-bottom: 15px;
+}
+
+.about-us-page-about-content-header-sub-title {
+    font-weight: 400;
+    font-size: 15px;
+    line-height:24px;
+    color: #505050;
+    margin-bottom: 40px;
+}
+
+.about-us-page-about-content p {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #505050;
+    padding: 10px 257px 10px 1px;
+
+}
+
+.about-us-page-about-button {
+    width: 124px;
+    height: 35px;
+    border: 0.704545px solid #211448;
+    font-weight: 400;
+    font-size: 12.6818px;
+    line-height: 15px;
+    color: #211448;
+    background: none;
+    cursor: pointer;
+
+}
+
+.about-us-page-about-button:hover {
+    background: #211448;
+    color: white;
+}
+.about-us-page-about-content-1 {
+    margin-top: 100px;
+    margin-left: 346px;
+    margin-bottom: 80px;
+}
+.about-us-page-about-content-1 p {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #505050;
+    padding: 10px 2px 10px 1px;
+
+}
+.about-us-page-about-image-2 {
+    padding: 100px 295px 10px 10px;
+    margin-bottom: 80px;
+
+}

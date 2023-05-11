@@ -1,0 +1,37 @@
+.home-page-dinning-container {
+    font-family: sans-serif;
+
+}
+
+.home-page-dinning-header-title {
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+.home-page-dinning-header-sub-title {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+    color: #505050;
+    padding: 10px 651px 10px 646px;
+
+}
+.home-page-dinning-image-container {
+    display: flex;
+    flex-wrap: wrap;
+    /* padding: 10px 454px 10px 469px; */
+    padding: 10px 111px 10px 313px;
+
+
+
+}
+.home-page-dinning-images {
+    margin: 10px;
+   
+}

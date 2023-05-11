@@ -1,0 +1,133 @@
+.footer-container {
+    background: #211448;
+    display: flex;
+}
+
+.footer-container-1 {
+    flex: 1;
+    font-family: sans-serif;
+}
+
+.footer-container-header-title {
+    font-weight: 600;
+    font-size: 31.8316px;
+    line-height: 37px;
+    color: #FFFFFF;
+    margin-top: 80px;
+    margin-bottom: 25px;
+    margin-left: 155px;
+
+}
+
+.footer-container-1 p {
+    font-weight: 400;
+    font-size: 15.9158px;
+    line-height: 27px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-left: 155px;
+    margin-bottom: 30px;
+
+}
+
+.footer-container-buttons {
+    display: flex;
+}
+
+.footer-mail {
+    width: 290px;
+    height: 45px;
+    border: 0.757983px solid #FFFFFF;
+    border-radius: 3.78992px;
+    margin-left: 155px;
+    background: none;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0.05em;
+    color: #C7C7C7;
+
+}
+
+.footer-button {
+    width: 119px;
+    height: 51px;
+    background: #FFA462;
+    border-radius: 3.78992px;
+    font-weight: 500;
+    font-size: 13.6437px;
+    line-height: 16px;
+    color: #FFFFFF;
+
+}
+
+.footer-container-2 {
+    flex: 1;
+    font-family: sans-serif;
+    margin-top: 80px;
+
+}
+
+.footer-header-links-container {
+    display: flex;
+}
+
+.footer-link-header {
+    flex: 1;
+    font-family: sans-serif;
+    margin-left: 77px;
+}
+
+.footer-link-header-title {
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+
+.footer-link-header-list {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 35px;
+    color: #FFFFFF;
+    margin-top: 20px;
+
+}
+
+.footer-link-location {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 35px;
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.footer-container-mail-address {
+    display: flex;
+}
+
+.footer-mail-name {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 35px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.footer-follow-us-container {
+    margin-top: 80px;
+    margin-left: 77px;
+}
+
+.footer-social-icon-container {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 118px;
+
+}
+
+.footer-social-icons {
+    margin: 10px 12px 10px 0px;
+
+}

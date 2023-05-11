@@ -1,0 +1,36 @@
+.about-us-page-banner-container {
+    background-image: url("./images/about.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+
+.about-us-page-banner-header-title {
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 63px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    text-align: center;
+    padding-top: 205px;
+}
+
+.about-us-page-banner-button {
+    border: 1px solid #000000;
+    border-radius: 5px;
+    width: 168px;
+    height: 40px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+    background: none;
+    margin-left: 823px;
+    margin-bottom: 301px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.about-us-page-banner-button:hover {
+    background: whitesmoke;
+    border: none;
+}

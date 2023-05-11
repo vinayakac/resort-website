@@ -1,0 +1,86 @@
+.home-page-about-container {
+    margin-top: -180px;
+}
+
+.home-page-about-block {
+    display: flex;
+}
+
+.home-page-about-block-image {
+    margin-top: 160px;
+    margin-left: 346px;
+}
+
+.home-page-about-block-content {
+    font-family: sans-serif;
+    margin-left: 50px;
+}
+
+.home-page-about-block-content-header {
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 159px;
+    margin-bottom: 20px;
+
+}
+
+.home-page-about-block-paragraph {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #505050;
+}
+
+.home-page-about-block-paragraph p {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    color: #505050;
+    width: 604px;
+    margin-top: 43px;
+}
+
+.home-page-about-button {
+    border: 0.704545px solid #211448;
+    Width: 124px;
+    Height: 35.93px;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 12.6818px;
+    line-height: 15px;
+    background-color: #FFFFFF;
+}
+.home-page-about-button:hover {
+    background-color: #211448;
+    color: #FFFFFF;
+
+}
+.home-page-about-block-content-2 {
+    font-family: sans-serif;
+    margin-left: 353px;
+}
+
+.home-page-about-block-content-2 p {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    color: #505050;
+    width: 561px;
+}
+
+.home-page-about-block-image-2 {
+    margin-top: 160px;
+}
+
+.home-page-about-block-board-container {
+    display: flex;
+}
+
+.home-page-about-block-board-container li {
+    margin: 10px 112px 10px 0px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 35px;
+    color: #000000;
+
+}

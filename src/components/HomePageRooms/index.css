@@ -1,0 +1,111 @@
+.home-page-rooms-container {
+    background-image: url("./image/image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.home-page-rooms-content-container {
+    padding: 67px 37px 10px 360px;
+}
+
+.home-page-rooms-content-header {
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+    font-family: sans-serif;
+}
+
+.home-page-rooms-content-container p {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    font-family: sans-serif;
+    color: #505050;
+    width: 528px;
+}
+
+.home-page-rooms-card-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px 164px 179px 346px;
+}
+
+.home-page-rooms-card {
+    width: 557px;
+    height: 350px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    margin: 10px;
+    display: flex;
+}
+
+.home-page-rooms-card-image {
+    margin: 20px;
+}
+
+.home-page-rooms-card-header-title {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    font-family: sans-serif;
+    margin-top: 21px;
+    margin-bottom: 10px;
+}
+
+.home-page-rooms-card-paragraph {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    font-family: sans-serif;
+    color: #505050;
+    margin-bottom: 25px;
+}
+
+.home-page-rooms-card-list li {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    font-family: sans-serif;
+    color: #000000;
+
+}
+.home-page-rooms-card-amount-container {
+    display: flex;
+    margin-bottom: 13px;
+}
+.home-page-rooms-card-day {
+    margin: 20px 5px 10px 1px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+    font-family: sans-serif;
+    color: #939393;
+    
+}
+.home-page-rooms-card-amount {
+    margin: 20px 5px 10px 1px;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 24px;
+    font-family: sans-serif;
+    color: #000000;
+    
+}
+
+.home-page-rooms-button {
+    width: 144px;
+    height: 41px;
+    background: #FF7816;
+    border: none;
+
+}
+
+.home-page-rooms-button:hover {
+    cursor: pointer;
+    background: #211448;
+    border: 1.6413px solid #FF7816;
+    color: #FFFFFF;
+}

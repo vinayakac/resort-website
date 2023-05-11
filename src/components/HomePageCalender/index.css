@@ -1,0 +1,73 @@
+.home-page-calender-box {
+    justify-content: center;
+    width: 1747px;
+    height: 80px;
+    background: rgba(97, 131, 169, 0.6);
+    border-radius: 5px;
+    position: relative;
+    bottom: 144px;
+    display: flex;
+    margin-left: 39px;
+
+}
+
+.home-page-calender-check-in-container {
+    width: 214px;
+    height: 50px;
+    border: 2px solid #FFFFFF;
+    display: flex;
+    margin: 12px;
+    text-align: center;
+}
+
+.home-page-calender-content {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 47px;
+    color: #FFFFFF;
+    flex: 3;
+}
+
+.home-page-calender-icon {
+    margin-top: 12px;
+    flex: 1;
+}
+
+.home-page-calender-button {
+    color: white;
+    background-color: #FB8122;
+    width: 214px;
+    height: 50px;
+    display: flex;
+    margin: 12px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    line-height: 39px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.home-page-calender-button:hover {
+    background-color: #211448;
+    cursor: pointer;
+}
+
+@media (max-width:430px) {
+
+    .home-page-calender-box {
+        border-color: #FFFFFF;
+        box-shadow: 0px 10px 50px 0px rgb(0 0 0 / 25%);
+        width: 332px;
+        height: 453px;
+        background: #FFFFFF;
+        margin: auto;
+        position: relative;
+        bottom: 110px;
+        display: flex;
+        flex-direction: column;
+
+    }
+
+}
